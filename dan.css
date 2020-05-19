@@ -1,0 +1,63 @@
+body,h2,h3{
+  margin: 0;
+  font-size: 100%; 
+  font-weight: normal;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+
+.header {
+  
+  height: 100vh;
+  background-color: black;
+  background-image: url(https://assets.awwwards.com/awards/sites_of_the_day/2020/05/MartineRos-2.jpg);
+  background-size: cover;
+  position: top;
+  text-align: center;
+  margin-top: -650px;
+
+  
+}
+
+.img { 
+background: url("https://martine-rose.com/_nuxt/img/0e9501e.svg") no-repeat;
+            height: 100px;
+            width: 200px;
+            margin-top: 500px;
+            margin-left: 500px;
+            filter: brightness(0) invert(1);
+            
+}
+
+                                   
+.img:hover { 
+background: url("https://martine-rose.com/_nuxt/img/d495c24.svg") no-repeat;
+            height: 100px;
+            width: 200px;
+            margin-top: 500px;
+            margin-left: 500px;
+            filter: brightness(0) invert(1);
+            } 
+
+
+
+
+.footer {
+        height: 300px;
+        width:;
+        background-color: black;
+        background-size: 50% auto;
+  display: flex;
+  margin-top: 0px;
+
+}
+.footer-author {
+                font-size: 24px;
+                color: white;
+                
+                margin:auto;
+
+}
